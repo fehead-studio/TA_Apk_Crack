@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 送给最好的TA.apk
+compressionType: false
+doNotCompress:
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.sgzh.dt
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  lua/import.lua: '8'
+  lua/loadbitmap.lua: '8'
+  lua/loadlayout.lua: '8'
+  lua/loadmenu.lua: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.0
+versionInfo:
+  versionCode: '10'
+  versionName: '1.0'
